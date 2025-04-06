@@ -10,7 +10,7 @@
 
 3. **Were there alternative algorithms, and why was this one preferred?**
 
-   Yes, alternatives like Linear Regression and XGBoost Regressor were considered. However, Random Forest was preferred due to its robustness in handling various data types and its ability to capture complex patterns in the data. citeturn0search1
+   Yes, alternatives like Linear Regression and XGBoost Regressor were considered. However, Random Forest was preferred due to its robustness in handling various data types and its ability to capture complex patterns in the data. 
 
 4. **Who benefits from completing this project?**
 
@@ -26,13 +26,13 @@
 
    - Train the machine learning model using the training set.
 
-   - Evaluate the model's performance using the testing set.
+   - Evaluate the model's performance using the testing set.
 
-   - Deploy the model in a user-friendly interface, such as a web application. citeturn0search1
+   - Deploy the model in a user-friendly interface, such as a web application. 
 
 6. **What are the input parameters, and how are they used to predict calories?**
 
-   The input parameters include gender, age, height, weight, exercise duration, heart rate, and body temperature. These factors are used by the model to estimate the number of calories burned during exercise. citeturn0search1
+   The input parameters include gender, age, height, weight, exercise duration, heart rate, and body temperature. These factors are used by the model to estimate the number of calories burned during exercise. 
 
 7. **What is the accuracy of this model compared to other algorithms?**
 

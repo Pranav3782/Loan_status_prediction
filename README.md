@@ -1,5 +1,7 @@
 # Loan_status_prediction
 
+visit : https://loanstatusprediction1.streamlit.app/
+
 1. **How was the project done?**
 
    The project involved collecting data on individuals' physical attributes and exercise details, such as age, gender, height, weight, exercise duration, heart rate, and body temperature. This data was then used to train a machine learning model to predict the number of calories burned during exercise.
